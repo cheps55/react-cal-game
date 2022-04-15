@@ -6895,6 +6895,11 @@ raw-body@2.4.3:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
+react-app-alias@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/react-app-alias/-/react-app-alias-2.2.0.tgz#2320e9fa28188811020c3d9791e0e3424520006c"
+  integrity sha512-LaDIn+mbhimcvatV1DiBjh+8Lg6f3shEWqwy6IywfT3J3IIiEOTncChEYWTrnIvV9R97bRQoL9a95uAOQipyTA==
+
 react-app-polyfill@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-app-polyfill/-/react-app-polyfill-3.0.0.tgz#95221e0a9bd259e5ca6b177c7bb1cb6768f68fd7"
