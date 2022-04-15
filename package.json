@@ -37,7 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "react-app-alias": "^2.2.0"
-  }
+  "devDependencies": {}
 }

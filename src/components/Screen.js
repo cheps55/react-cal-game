@@ -1,5 +1,8 @@
 const Screen = () => {
-    return <div>
+    const style = {
+        background: 'red'
+    }
+    return <div styles={styles}>
         
     </div>
 }
