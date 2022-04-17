@@ -1,0 +1,38 @@
+.container {
+    position: relative;
+    border:1px solid black;
+    width: 700px;
+    height: 450px;
+    margin: 28px auto;
+}
+
+.displayLive {
+    position: absolute;
+    top: 0;
+    left: 14px;
+    font-size: 40px;
+}
+
+.gameScreen {
+    display: grid;
+    heighT: 100%;
+}
+
+.msgContainer {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.msgContainer > div {
+    text-align: center;
+    font-size: 80px;
+}
+.msgContainer > button {
+    text-align: center;
+    font-size: 50px;
+    widtH: fit-content;
+}
